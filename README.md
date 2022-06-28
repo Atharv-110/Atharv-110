@@ -3,13 +3,15 @@
 <i><h3 align="center">A Techno Savvy Sophomore, Actively Looking for Tech Opportunities</h3></i>
 <p align="left"> <a href="https://twitter.com/atharv_110" target="blank"><img src="https://img.shields.io/twitter/follow/atharv_110?logo=twitter&style=for-the-badge" alt="atharv_110" /></a> </p>
 
-- 🌱 Currently indulged in learning -> **Data Science, Databases & React.js**
+- 🌱 Currently indulged in learning -> **Full-Stack Development, Databases & React.js**
 
-- 👨‍💻 Own created Profile-Tree -> [atharv110.co](atharv110.co)
+- 👨‍💻 Own created Profile-Tree -> [Click Here!](https://atharv110.co/)
+
+- 🧔‍♂️ Portfolio Website -> [Click Here!](https://atharv-110.github.io/Personal-Portfolio-Website/)
 
 - 💬 Love to discuss about -> **C/C++, Data Structures, JAVA, HTML, CSS, JS, React.js, MySQL**
 
-- 📫 Drop me a mail at -> **atharvavani110gmail.com**
+- 📫 Drop me a mail at -> **atharvavani110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
