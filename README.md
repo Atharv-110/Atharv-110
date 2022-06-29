@@ -3,7 +3,7 @@
 <i><h3 align="center">A Techno Savvy Sophomore, Actively Looking for Tech Opportunities</h3></i>
 <p align="left"> <a href="https://twitter.com/atharv_110" target="blank"><img src="https://img.shields.io/twitter/follow/atharv_110?logo=twitter&style=for-the-badge" alt="atharv_110" /></a> </p>
 
-- 🌱 Currently indulged in learning -> **Full-Stack Development, Databases & React.js**
+- 🌱 Currently indulged in learning -> **Full-Stack Development, Python & Data Structures & Algorithms**
 
 - 👨‍💻 Own created Profile-Tree -> [Click Here!](https://atharv110.co/)
 
