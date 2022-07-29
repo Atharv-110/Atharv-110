@@ -1,8 +1,8 @@
 <a href="https://atharv110.co/">![image](https://github.com/Atharv-110/Atharv-110/blob/main/image.png)</a>
 
 <div style="border: 4px solid #FF9F29; padding: 0 10px 0 10px;">
-<h1 align="center" style="font-family: 'Courier New' , sans-serif; color: #FAF3E3;">Hey👋, I'm <span style="color: #FF9F29;font-weight: bolder;">Atharv Vani <span></h1>
-<h3 align="center" style="font-family: 'Courier New' , sans-serif; color: #FAF3E3;font-weight: normal;">A Techno Savvy <span style="color: #FF9F29; font-weight: bolder;">Pre-Final Year</span> Student, Actively Looking for Tech Opportunities.</h3>
+<h1 align="center" style="font-family: 'Courier New' , sans-serif; color: #FAF3E3;">Hey👋, I'm <span style="color: #FF9F29;font-weight: bolder;"><b>Atharv Vani</b><span></h1>
+<h3 align="center" style="font-family: 'Courier New' , sans-serif; color: #FAF3E3;font-weight: normal;">A Techno Savvy <span style="color: #FF9F29; font-weight: bolder;"><b>Pre-Final Year</b></span> Student, Actively Looking for Tech Opportunities.</h3>
 <hr>
 <p align="center"> <a href="https://twitter.com/atharv_110" target="blank"><img src="https://img.shields.io/twitter/follow/atharv_110?logo=twitter&style=for-the-badge" alt="atharv_110" /></a> </p>
 
