@@ -35,8 +35,8 @@
 <hr>
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=atharv-110&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-110&theme=dark&hide_border=false" />
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-110&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<br><img width="50%" src="https://github-readme-stats.vercel.app/api?username=atharv-110&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><br><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-110&theme=dark&hide_border=false" />
+<br><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-110&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 <hr>
 
