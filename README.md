@@ -41,6 +41,11 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-110&theme=dark&hide_border=false" />
 <br>
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-110&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<div width="60%">
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=atharv-110&theme=react-dark)](https://github.com/atharv-110/github-readme-activity-graph)
+
+</div>
 </div>
 <hr>
 
