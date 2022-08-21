@@ -1,7 +1,7 @@
 <a href="https://atharv110.co/">![image](https://github.com/Atharv-110/Atharv-110/blob/main/image.png)</a>
 
-<h1 align="center">Hey👋, I'm <strong>Atharv Vani</strong></h1>
-<h3 align="center">A Techno Savvy <strong>Pre-Final Year Student</strong>, Actively Looking for Tech Opportunities.</h3>
+<h1 align="center">Hey👋, I'm <b>Atharv Vani</b></h1>
+<h3 align="center">A Techno Savvy <b>Pre-Final Year Student</b>, Actively Looking for Tech Opportunities.</h3>
 <hr>
 <p align="left"> <a href="https://twitter.com/atharv_110" target="blank"><img src="https://img.shields.io/twitter/follow/atharv_110?logo=twitter&style=for-the-badge" alt="atharv_110" /></a> </p>
 
