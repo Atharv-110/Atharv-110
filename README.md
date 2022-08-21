@@ -45,7 +45,6 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=atharv-110&theme=xcode)](https://github.com/atharv-110/github-readme-activity-graph)
 </div>
 <hr>
-
 <h3 align="left">Dev Quote:</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
