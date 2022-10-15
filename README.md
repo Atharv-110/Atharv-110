@@ -15,8 +15,8 @@
 
 - #### 📫 Drop me a mail at -> **atharvavani110@gmail.com**
 <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with me</h2>
+<p align="center">
 <a href="https://twitter.com/atharv_110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharv_110" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/atharv-vani110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharv vani" height="30" width="40" /></a>
 <a href="https://codesandbox.com/atharv110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="atharv110" height="30" width="40" /></a>
@@ -29,22 +29,27 @@
 </p>
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools</h2>
+<div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 <hr>
-<h3 align="left">GitHub Stats:</h3>
+</div>
+<h2 align="Center">GitHub Statistics</h2>
 <div align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=atharv-110&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-110&theme=dark&hide_border=false" />
 <br>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=atharv-110&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-<br>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-110&theme=dark&hide_border=false" />
-<br>
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-110&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-110&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=atharv-110&theme=xcode)](https://github.com/atharv-110/github-readme-activity-graph)
 </div>
 <hr>
-<h3 align="left">Dev Quote:</h3>
+<div align="center">
+<h2 align="center">Hacktoberfest 2022</h2>
+
+[![@atharv_110's Holopin board](https://holopin.me/atharv_110)](https://holopin.io/@atharv_110)
+<hr>
+<h2 align="center">Dev Quote</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
