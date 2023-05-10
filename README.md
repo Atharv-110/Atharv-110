@@ -38,6 +38,7 @@
 <h2 align="Center">GitHub Statistics</h2>
 <div align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=atharv-110&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-110&theme=dark&hide_border=false" />
+
 <br>
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-110&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
