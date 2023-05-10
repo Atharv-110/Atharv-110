@@ -37,9 +37,9 @@
 </div>
 <h2 align="Center">GitHub Statistics</h2>
 <div align="center">
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=atharv-110&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-110&theme=dark&hide_border=true" />
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-110&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=atharv-110&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-110&theme=dark&hide_border=true" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-110&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
 [![Atharv's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Atharv-110&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
