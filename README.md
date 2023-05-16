@@ -1,4 +1,6 @@
-<a href="https://atharv110.co/">![image](https://github.com/Atharv-110/Atharv-110/blob/main/image.png)</a>
+<a href="https://atharv110.co/">
+<img src="image.png" />
+</a>
 
 <h1 align="center">Hey👋, I'm <b>Atharv Vani</b></h1>
 <h3 align="center">A Techno Savvy <b>Pre-Final Year Student</b>, Actively Looking for Tech Opportunities.</h3>
@@ -17,6 +19,7 @@
 <hr>
 <h2 align="center">Connect with me</h2>
 <p align="center">
+
 <a href="https://twitter.com/atharv_110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharv_110" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/atharv-vani110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharv vani" height="30" width="40" /></a>
 <a href="https://codesandbox.com/atharv110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="atharv110" height="30" width="40" /></a>
@@ -26,6 +29,7 @@
 <a href="https://www.codechef.com/users/atharv_110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atharv_110" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/atharv110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atharv110" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/atharvavani110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atharvavani110" height="30" width="40" /></a>
+
 </p>
 <!-- <hr> -->
 
