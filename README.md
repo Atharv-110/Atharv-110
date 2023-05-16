@@ -1,5 +1,5 @@
 <a href="https://atharv110.co/">
-<img src="image.png" />
+<img src="./image.png" />
 </a>
 
 <h1 align="center">Hey👋, I'm <b>Atharv Vani</b></h1>
