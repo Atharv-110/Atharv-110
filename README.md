@@ -1,6 +1,6 @@
 <a href="https://atharv110.co/">
 
-<img src="./banner.PNG" alt="banner"/>
+![banner](https://github.com/Atharv-110/Atharv-110/assets/87393095/1b86b76e-084d-427a-885b-847bb9b53e1e)
 
 </a>
 
@@ -9,7 +9,7 @@
 <hr>
 <p align="left"> <a href="https://twitter.com/atharv_110" target="blank"><img src="https://img.shields.io/twitter/follow/atharv_110?logo=twitter&style=for-the-badge" alt="atharv_110" /></a> </p>
 
-- #### 🌱 Currently indulged in learning -> **Full-Stack Development, Python & Data Structures & Algorithms**
+### 🌱 Currently indulged in learning -> **Full-Stack Development, Python & Data Structures & Algorithms**
 
 - #### 👨‍💻 Own created Profile-Tree -> [Click Here!](https://atharv110.co/)
 
