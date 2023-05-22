@@ -1,6 +1,6 @@
 <a href="https://atharv110.co/">
 
-<img src="img.PNG" />
+<img src="./banner.PNG" alt="banner"/>
 
 </a>
 
