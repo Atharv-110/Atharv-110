@@ -15,7 +15,7 @@
 
 - #### 🧔‍♂️ Portfolio Website -> [Click Here!](https://atharv-110.github.io/Personal-Portfolio-Website/)
 
-- #### 💬 Love to discuss about -> **C/C++, Data Structures, Java, Python, HTML, CSS, JS, React.js, MySQL**
+- #### 💬 Love to discuss -> **C/C++, Data Structures, Java, Python, HTML, CSS, JS, React.js, MySQL**
 
 - #### 📫 Drop me a mail at -> **atharvavani110@gmail.com**
 <hr>
@@ -60,3 +60,4 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
+
