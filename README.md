@@ -1,9 +1,4 @@
-<a href="https://atharv110.co/">
-
 ![banner](https://github.com/Atharv-110/Atharv-110/assets/87393095/1b86b76e-084d-427a-885b-847bb9b53e1e)
-
-</a>
-
 <!-- <h1 align="center">Hey👋, I'm <b>Atharv Vani</b></h1>
 <h3 align="center">A Techno Savvy <b>Pre-Final Year Student</b>, Actively Looking for Tech Opportunities.</h3> -->
 <hr>
