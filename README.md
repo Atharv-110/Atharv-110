@@ -50,9 +50,5 @@
 <h2 align="center">Hacktoberfest 2022</h2>
 
 [![@atharv_110's Holopin board](https://holopin.me/atharv_110)](https://holopin.io/@atharv_110)
-<!-- <hr> -->
-<h2 align="center">Dev Quote</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-</div>
 
