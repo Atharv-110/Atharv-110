@@ -1,7 +1,8 @@
-![banner](https://github.com/Atharv-110/Atharv-110/assets/87393095/1b86b76e-084d-427a-885b-847bb9b53e1e)
+<img src="https://komarev.com/ghpvc/?username=Atharv-110&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
-## 👤 About Me
+## 👤 Atharv Vani
 Eager Java aficionado and coding maestro, adept at employingcutting-edge techniques and algorithms to conquer challenges. Askilled problem solver and multitasker, relentlessly mastering newtech daily. Thrives on connecting with fellow tech enthusiasts, tackling real-world industry puzzles, and propelling enduringsuccess. Let's code together for a tech-driven tomorrow!
+
 ## ⚙️ Tech Stack
 ###### Programming Languages:
 [![My Skills](https://skills.thijs.gg/icons?i=java,python,cpp,c,js,ts&theme=light)](https://skills.thijs.gg)
@@ -15,3 +16,6 @@ Eager Java aficionado and coding maestro, adept at employingcutting-edge techniq
 [![My Skills](https://skills.thijs.gg/icons?i=aws,gcp&theme=light)](https://skills.thijs.gg)
 ###### Tools:
 [![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,idea,replit,vite,git,github,postman,netlify,vercel,figma&theme=light)](https://skills.thijs.gg)
+
+## 🏢 Work Experiences
+#### Front-end Developer | ```Bookzy Edufy Pvt. Ltd.``` | ```JUN 2023 - Present```
