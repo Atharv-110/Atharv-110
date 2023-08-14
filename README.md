@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=Atharv-110&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
-## 👤 Atharv Vani
+## 👤 About Me
 > Tech-Xplorer | Developer | Mentor
 
 Eager Java aficionado and coding maestro, adept at employingcutting-edge techniques and algorithms to conquer challenges. Askilled problem solver and multitasker, relentlessly mastering newtech daily. Thrives on connecting with fellow tech enthusiasts, tackling real-world industry puzzles, and propelling enduring success.
