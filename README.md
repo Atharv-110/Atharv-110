@@ -6,17 +6,25 @@
 Eager Java aficionado and coding maestro, adept at employingcutting-edge techniques and algorithms to conquer challenges. Askilled problem solver and multitasker, relentlessly mastering newtech daily. Thrives on connecting with fellow tech enthusiasts, tackling real-world industry puzzles, and propelling enduring success.
 
 ## ⚙️ Tech Stack
+```Programming Languages```
+
 [![My Skills](https://skills.thijs.gg/icons?i=java,python,cpp,c,js,ts&theme=light)](https://skills.thijs.gg)
+
+```Front-End Technologies```
 
 [![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,vue,html,css,tailwind,materialui,bootstrap&theme=light)](https://skills.thijs.gg)
 
+```Back-End Technologies```
+
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,firebase,express&theme=light)](https://skills.thijs.gg)
+
+```Databases```
 
 [![My Skills](https://skills.thijs.gg/icons?i=mysql,mongodb&theme=light)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=aws,gcp&theme=light)](https://skills.thijs.gg)
+```Tools & Platforms```
 
-[![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,idea,replit,vite,git,github,postman,netlify,vercel,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,idea,replit,vite,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light)](https://skills.thijs.gg)
 
 ## 🏢 Work Experiences
 - #### Front-End Developer at [**Bookzy Edufy Pvt. Ltd.**](https://bookzy.in/)
