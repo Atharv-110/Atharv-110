@@ -64,7 +64,29 @@ Conducted informative sessions and meetings, imparting knowledge about emerging 
 Led multiple winning teams in hackathons, including **HackNITR 4.0** and **Ideathons**, showcasing effective leadership and technical prowess.
 
 - #### Organizer of [Wittyhacks 3.0](https://wittyhacks.in/) at [Datacode.in](https://www.datacode.in/)
+  ```FEB 2023 - APR 2023```
 
   ***Led Wittyhacks 3.0 Outreach Team***, coordinating **50+ volunteers**, boosting engagement through **10+ Evangelists**. Fostered vital community ties with **20+ Partners**. Played a key role in Sponsorship Team, securing diverse sponsorships. Skillfully managed on-ground activities during hackathon hours.
-  
+
+- #### Outreach Head at [Sahityik - Literary Club of Medi-Caps University Indore](https://instagram.com/sahityik_mu?igshid=MzRlODBiNWFlZA==)
+  ```AUG 2022 - AUG 2023```
+
+  Being an ***Outreach Head*** of the oldest club of university, I got indulged in audience & members' engagement as well as built a good PR amongst every department of university. Organized (as lead organizer) the biggest in-person Literary Fest of university, [Litopia](https://litopia.vercel.app/) which was a **2 day fest** with over **1000+ audience**. Led all the teams under my supervision and ensured the smooth conduction of the fest throughout.
+  Also being in this club I got a great chance to organize official college events like **Convocation Ceremony**, **Alumni Meet**, etc.
+
+## ❤️ Open Source Contributions
+
+- #### Mentor at [GirlScript Summer of Code 2023](https://gssoc.girlscript.tech/)
+  Mentored various newbie contributors to dive into world of open source and maintained [Blogzen Project](https://github.com/DSC-JSS-NOIDA/blogzen).
+- #### Contributor at [HacktoberFest 2022](https://hacktoberfest.com/)
+  Contributed in **2+ projects** with **10+ Pull Requests** got officially accepted & merged. [View Badges](https://holopin.io/@atharv_110)
+- #### Mentor at [Social Summer of Code 2022](https://ssoc.devfolio.co/)
+  Mentored contributors to get into open source contribution and took a session in college on Git/GitHub. Maintained **2 projects** as a collaborator. [Verify Here](https://verification.givemycertificate.com/v/69f05901-303e-493b-bc81-a24e9c977332)
+- #### Contributor at [GirlScript Summer of Code 2022](https://gssoc.girlscript.tech/)
+  Contributed in **2+ projects** with **5+ Pull Requests** got officially merged. I got under top **150 of 1000+ contributors**.
+
+## 📊 GitHub Stats
+<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-110&langs_count=6&hide_progress=true&theme=dark"> <img width="355px" src="https://streak-stats.demolab.com/?user=Atharv-110&theme=dark"/> <img width="335px" src="https://github-readme-stats.vercel.app/api?username=Atharv-110&show_icons=true&theme=dark"/>
+
+> Thank You! for Visiting
 
