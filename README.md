@@ -29,7 +29,7 @@ Eager Java aficionado and coding maestro, adept at employingcutting-edge techniq
 - #### Junior Developer Intern at [**Webalar OPC Pvt. Ltd.**](https://webalar.in/)
   ```JUN 2023 - JUL 2023```
 
-  Worked on their one the client based project i.e. [Mind Sphere Psychology](https://mindsphere.co.in/), which is an organisation for various types of counselling. Also worked on SEO optimization for the client projects and audited the Webalar's website for better future performance.
+  Worked on their one of the client based project i.e. [Mind Sphere Psychology](https://mindsphere.co.in/), which is an organisation for various types of counselling. Also worked on SEO optimization for the client projects and audited the Webalar's website for better future performance.
 
 - #### Web Developer Intern at [**Bizwit Research & Consulting LLP**](https://www.bizwitresearch.com/)
   ```JAN 2023 - FEB 2023```
