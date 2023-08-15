@@ -85,6 +85,30 @@ Led multiple winning teams in hackathons, including **HackNITR 4.0** and **Ideat
 - #### Contributor at [GirlScript Summer of Code 2022](https://gssoc.girlscript.tech/)
   Contributed in **2+ projects** with **5+ Pull Requests** got officially merged. I got under top **150 of 1000+ contributors**.
 
+## 🤝 Let's Connect
+<div align="left">
+  <a href="https://www.linkedin.com/in/atharv-vani110/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:atharvavani110@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/atharv_110" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+<!--   <a href="" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  </a> -->
+  <a href="https://www.youtube.com/channel/UCOq-M8ujZjOmIuCcFX7v3YA" target="_blank">
+    <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  </a>
+<!--   <a href="" target="_blank">
+    <img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a> -->
+  <a href="https://www.instagram.com/atharvite_01/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+
 ## 📊 GitHub Stats
 <img width="335px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-110&langs_count=6&hide_progress=true&theme=dark"> <img width="390px" src="https://streak-stats.demolab.com/?user=Atharv-110&theme=dark"/>
 
