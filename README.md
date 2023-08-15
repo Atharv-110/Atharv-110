@@ -86,7 +86,7 @@ Led multiple winning teams in hackathons, including **HackNITR 4.0** and **Ideat
   Contributed in **2+ projects** with **5+ Pull Requests** got officially merged. I got under top **150 of 1000+ contributors**.
 
 ## 📊 GitHub Stats
-<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-110&langs_count=6&hide_progress=true&theme=dark"> <img width="355px" src="https://streak-stats.demolab.com/?user=Atharv-110&theme=dark"/> <img width="335px" src="https://github-readme-stats.vercel.app/api?username=Atharv-110&show_icons=true&theme=dark"/>
+<img width="335px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-110&langs_count=6&hide_progress=true&theme=dark"> <img width="390px" src="https://streak-stats.demolab.com/?user=Atharv-110&theme=dark"/>
 
 > Thank You! for Visiting
 
