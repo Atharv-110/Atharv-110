@@ -42,14 +42,14 @@ I thrive and learn by connecting with fellow tech enthusiasts. Real-world indust
 - #### Web Developer Intern at [**Bizwit Research & Consulting LLP**](https://www.bizwitresearch.com/)
   ```JAN 2023 - FEB 2023```
 
-  Worked on their venture's website, [I Am Safe at Work](https://iamsafeatwork.com/) and also got an opportunity to learn **WordPress** and various themes of it. Major technical stack was HTML, CSS & JS with CSS frameworks like Bootstrap.
+  Worked on their venture's website, [I Am Safe at Work](https://iamsafeatwork.com/) and also got the opportunity to learn **WordPress** and various themes of it. Major technical stack was HTML, CSS & JS with CSS frameworks like Bootstrap.
 
 ## 🎯 Position of Responsibilities
 
 - #### Core Team Member at [Google Developer Groups Indore](https://gdg.community.dev/gdg-indore/)
   ```APR 2023 - Present```
 
-  Actively contributed to Google Developer Groups Indore, serving as a web developer in technical department. Successfully developed two impactful websites: [IWD Indore 2023](https://iwd.gdgindore.in/) and [Google Cloud Community Day Indore 2023](https://gdgcloudindore.com/). Plays a pivotal role in the management and sponsorship teams, showcasing strong organizational skills. Proficiently manages on-ground activities during events, ensuring smooth execution and engagement.
+  Actively contributed to Google Developer Groups Indore, serving as a web developer in technical department. Successfully developed two impactful websites: [IWD Indore 2023](https://iwd.gdgindore.in/) and [Google Cloud Community Day Indore 2023](https://gdgcloudindore.com/). Played a pivotal role in the management and sponsorship teams, showcasing strong organizational skills. Proficiently managed on-ground activities during events, ensuring smooth execution and engagement.
 
 - ####  Executive & Core Team Member at [Google Developer Student Clubs Medi-Caps University Indore](https://gdsc.community.dev/medi-caps-university-indore/)
   ```SEP 2021 - AUG 2023```
