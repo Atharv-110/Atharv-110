@@ -112,5 +112,7 @@ Being part of Sahityik, I have had the privilege of being part of other amazing 
 ## 📊 GitHub Stats
 <img width="335px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-110&langs_count=6&hide_progress=true&theme=dark"> <img width="390px" src="https://streak-stats.demolab.com/?user=Atharv-110&theme=dark"/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv-110&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🙋‍♂️ Thank You for Visiting!
 
