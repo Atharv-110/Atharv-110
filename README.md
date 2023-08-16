@@ -71,8 +71,8 @@ Led multiple winning teams in hackathons, including **HackNITR 4.0** and **Ideat
 - #### Outreach Head at [Sahityik - Literary Club of Medi-Caps University Indore](https://instagram.com/sahityik_mu?igshid=MzRlODBiNWFlZA==)
   ```AUG 2022 - AUG 2023```
 
-  Being an ***Outreach Head*** of the oldest club of university, I got indulged in audience & members' engagement as well as built a good PR amongst every department of university. Organized (as lead organizer) the biggest in-person Literary Fest of university, [Litopia](https://litopia.vercel.app/) which was a **2 day fest** with over **1000+ audience**. Led all the teams under my supervision and ensured the smooth conduction of the fest throughout.
-  Also being in this club I got a great chance to organize official college events like **Convocation Ceremony**, **Alumni Meet**, etc.
+  Being the ***Outreach Head*** of **Sahityik**, the oldest club of the university, I indulged in numerous audience & members' engagement activities and built as good PR in many departments. Was the lead organizer for the biggest in-person Literary Fest of the university: [Litopia](https://litopia.vercel.app/). A two-day event with a **1000+ audience**. Roped various sponsors and under my supervision, I ensured smoother conduction of the fest throughout. 
+Being part of Sahityik, I have had the privilege of being part of other amazing events like **Convocation Ceremony**, **Alumni Meets**, etc.
 
 ## ❤️ Open Source Contributions
 
