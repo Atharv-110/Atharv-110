@@ -110,7 +110,7 @@ Being part of Sahityik, I have had the privilege of being part of other amazing 
   </a>
 
 ## 📊 GitHub Stats
-<div align="center">
+<div align="left">
 <img width="60%" src="https://streak-stats.demolab.com/?user=Atharv-110&theme=dark"/>
 </div>
 
