@@ -9,7 +9,7 @@ I thrive and learn by connecting with fellow tech enthusiasts. Real-world indust
 ## ⚙️ Tech Stack
 ```Programming Languages```
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,python,cpp,c,js,ts&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,python,js,ts,cpp,c&theme=light)](https://skills.thijs.gg)
 
 ```Front-End Technologies```
 
@@ -25,7 +25,7 @@ I thrive and learn by connecting with fellow tech enthusiasts. Real-world indust
 
 ```Tools & Platforms```
 
-[![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,idea,replit,vite,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,idea,eclipse,replit,vite,md,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light&perline=8)](https://skills.thijs.gg)
 
 ## 🏢 Work Experiences
 - #### Front-End Developer at [**Bookzy Edufy Pvt. Ltd.**](https://bookzy.in/)
