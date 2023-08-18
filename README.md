@@ -44,6 +44,8 @@ I thrive and learn by connecting with fellow tech enthusiasts. Real-world indust
 
   Worked on their venture's website, [I Am Safe at Work](https://iamsafeatwork.com/) and also got the opportunity to learn **WordPress** and various themes of it. Major technical stack was HTML, CSS & JS with CSS frameworks like Bootstrap.
 
+- #### Web Developer Intern at [**Webalar OPC Pvt. Ltd.**](https://webalar.in/)
+
 ## 🎯 Position of Responsibilities
 
 - #### Core Team Member at [Google Developer Groups Indore](https://gdg.community.dev/gdg-indore/)
