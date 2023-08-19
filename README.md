@@ -25,7 +25,7 @@ I thrive and learn by connecting with fellow tech enthusiasts. Real-world indust
 
 ```Tools & Platforms```
 
-[![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,idea,eclipse,replit,vite,md,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light&perline=8)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,idea,eclipse,replit,vite,md,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light&perline=6)](https://skills.thijs.gg)
 
 ## 🏢 Work Experiences
 - #### Front-End Developer at [**Bookzy Edufy Pvt. Ltd.**](https://bookzy.in/)
