@@ -46,6 +46,7 @@ I thrive and learn by connecting with fellow tech enthusiasts. Real-world indust
 
 - #### Web Developer Intern at [**Webalar OPC Pvt. Ltd.**](https://webalar.in/)
   ```JUL 2022 - OCT 2022```
+  Worked on one of their client-based projects: [Insane Web Studios]().
 
 ## 🎯 Position of Responsibilities
 
