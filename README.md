@@ -90,7 +90,7 @@ Being part of Sahityik, I have had the privilege of being part of other amazing 
 - #### Contributor at [GirlScript Summer of Code 2022](https://gssoc.girlscript.tech/)
   Contributed in **2+ projects** with **5+ Pull Requests** got officially merged. I got under top **150 of 1000+ contributors**.
 
-## 🤝 Let's Connect
+## 🤝 Let's get Connected
 <div align="left">
   <a href="https://www.linkedin.com/in/atharv-vani110/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
