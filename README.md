@@ -6,7 +6,7 @@
 Passionate Java Aficiondo and Coding Maestro. I'm adept at employing cutting-edge techniques and algorithms. A skilled problem solver and multitasker who master new tech daily.
 I thrive and learn by connecting with fellow tech enthusiasts. Real-world industry puzzels are my playground for propelling enduring success.
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack:
 ```Programming Languages```
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,python,js,ts,cpp,c&theme=light)](https://skills.thijs.gg)
