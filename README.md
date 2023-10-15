@@ -29,7 +29,7 @@ I thrive and learn by connecting with fellow tech enthusiasts. Real-world indust
 
 ## 🏢 Work Experiences
 - #### Front-End Developer at [**Bookzy Edufy Pvt. Ltd.**](https://bookzy.in/)
-  ```JUN 2023 - Present```
+  ```JUN 2023 - OCT 2023```
   
   Building dashboard application for their new venture called [Pustakaalay](https://user.pustakaalay.in/), which will focus on transforming the physical libraries into digital ones i.e. bringing digitization to the libraries. Also building some cool IQ based games for school students [Pustakaalay Games](https://user.pustakaalay.in/games). And revamping their main [Bookzy](https://bookzy.in/) admin portal
 
