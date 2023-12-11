@@ -13,7 +13,7 @@ I thrive and learn by connecting with fellow tech enthusiasts. Real-world indust
 
 ```Front-End Technologies```
 
-[![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,vue,html,css,tailwind,materialui,bootstrap&theme=light&perline=6)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,redux,vue,html,css,tailwind,materialui,bootstrap&theme=light&perline=6)](https://skills.thijs.gg)
 
 ```Back-End Technologies```
 
