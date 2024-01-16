@@ -3,8 +3,7 @@
 ## 👤 About Me
 > Tech-Xplorer | Developer | Mentor
 
-Passionate Java Aficiondo and Coding Maestro. I'm adept at employing cutting-edge techniques and algorithms. A skilled problem solver and multitasker who master new tech daily.
-I thrive and learn by connecting with fellow tech enthusiasts. Real-world industry puzzels are my playground for propelling enduring success.
+Hey there! I am a fresher and aspiring software and frontend developer, who relentlessly learns new tech daily. Thrives on connecting with tech enthusiasts, tackling real-world problems, and propelling enduring success.
 
 ## ⚙️ Tech Stack
 ```Programming Languages```
