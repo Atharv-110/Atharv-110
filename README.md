@@ -38,11 +38,6 @@ Hey there! I am a fresher and aspiring software and frontend developer, who rele
 
   Worked on one of their client-based projects: [Mind Sphere Psychology](https://mindsphere.co.in/), which is an organisation for various types of counselling. Also worked on SEO optimization for the client projects and audited the Webalar's website for better future performance.
 
-- #### Web Developer Intern at [**Bizwit Research & Consulting LLP**](https://www.bizwitresearch.com/)
-  ```JAN 2023 - FEB 2023```
-
-  Worked on their venture's website, [I Am Safe at Work](https://iamsafeatwork.com/) and also got the opportunity to learn **WordPress** and various themes of it. Major technical stack was HTML, CSS & JS with CSS frameworks like Bootstrap.
-
 - #### Web Developer Intern at [**Webalar OPC Pvt. Ltd.**](https://webalar.in/)
   ```JUL 2022 - OCT 2022```
 
