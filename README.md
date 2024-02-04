@@ -27,6 +27,9 @@ Hey there! I am a fresher and aspiring software and frontend developer, who rele
 [![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,idea,eclipse,replit,vite,md,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light&perline=6)](https://skills.thijs.gg)
 
 ## 🏢 Work Experiences
+- #### Software Development Intern at [**Flipr Innovation Labs Pvt. Ltd.**](https://flipr.ai/)
+  ```JAN 2024 - Present```
+
 - #### Front-End Developer at [**Bookzy Edufy Pvt. Ltd.**](https://bookzy.in/)
   ```JUN 2023 - OCT 2023```
   
