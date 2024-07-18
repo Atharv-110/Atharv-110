@@ -8,23 +8,23 @@ Hey there! I am a fresher and aspiring software and frontend developer, who rele
 ## ⚙️ Tech Stack
 ```Programming Languages```
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,python,js,ts,cpp,c&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c&theme=light)](https://skills.thijs.gg)
 
 ```Front-End Technologies```
 
-[![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,redux,vue,html,css,tailwind,materialui,bootstrap&theme=light&perline=6)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,vue,html,css,tailwind,materialui,bootstrap&theme=light&perline=6)](https://skills.thijs.gg)
 
 ```Back-End Technologies```
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,firebase,express&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,express&theme=light)](https://skills.thijs.gg)
 
 ```Databases```
 
-[![My Skills](https://skills.thijs.gg/icons?i=mysql,mongodb&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skills.thijs.gg)
 
 ```Tools & Platforms```
 
-[![My Skills](https://skills.thijs.gg/icons?i=powershell,vscode,idea,eclipse,replit,vite,md,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light&perline=6)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,idea,eclipse,replit,vite,md,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light&perline=6)](https://skills.thijs.gg)
 
 ## 🏢 Work Experiences
 - #### Software Development Intern at [**Flipr Innovation Labs Pvt. Ltd.**](https://flipr.ai/)
