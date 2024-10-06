@@ -30,10 +30,12 @@ Hey there! I am a fresher and aspiring software and frontend developer, who rele
 - #### Software Development Intern at [**Flipr Innovation Labs Pvt. Ltd.**](https://flipr.ai/)
   ```JAN 2024 - Present```
 
+  Worked on some prominent client projects like Acko Technologies, M4X, etc.. Also got a chance to build their in-house product, a hackathon platform called Flipr Connect.
+
 - #### Front-End Developer at [**Bookzy Edufy Pvt. Ltd.**](https://bookzy.in/)
   ```JUN 2023 - OCT 2023```
   
-  Building dashboard application for their new venture called [Pustakaalay](https://user.pustakaalay.in/), which will focus on transforming the physical libraries into digital ones i.e. bringing digitization to the libraries. Also building some cool IQ based games for school students [Pustakaalay Games](https://user.pustakaalay.in/games). And revamping their main [Bookzy](https://bookzy.in/) admin portal
+  Built dashboard application for their new venture called [Pustakaalay](https://user.pustakaalay.in/), which will focus on transforming the physical libraries into digital ones i.e. bringing digitization to the libraries. Also built some cool IQ based games for school students [Pustakaalay Games](https://user.pustakaalay.in/games). And revamped their main [Bookzy](https://bookzy.in/) admin portal
 
 
 - #### Junior Developer Intern at [**Webalar OPC Pvt. Ltd.**](https://webalar.in/)
@@ -98,18 +100,13 @@ Being part of Sahityik, I have had the privilege of being part of other amazing 
   <a href="https://twitter.com/atharv_110" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-<!--   <a href="" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
-  </a> -->
   <a href="https://www.youtube.com/channel/UCOq-M8ujZjOmIuCcFX7v3YA" target="_blank">
     <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
-<!--   <a href="" target="_blank">
-    <img alt="Linktree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
-  </a> -->
   <a href="https://www.instagram.com/atharvite_01/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
+</div>
 
 ## 📊 GitHub Stats
 <div align="left">
