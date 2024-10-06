@@ -12,7 +12,7 @@ Hey there! I am a fresher and aspiring software and frontend developer, who rele
 
 ```Front-End Technologies```
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,vue,html,css,tailwind,materialui,bootstrap&theme=light&perline=6)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,vue,html,css,tailwind,materialui,bootstrap&theme=light)](https://skills.thijs.gg)
 
 ```Back-End Technologies```
 
@@ -24,7 +24,7 @@ Hey there! I am a fresher and aspiring software and frontend developer, who rele
 
 ```Tools & Platforms```
 
-[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,idea,eclipse,replit,vite,md,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light&perline=6)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,idea,eclipse,replit,vite,md,git,github,postman,netlify,vercel,aws,gcp,figma&theme=light)](https://skills.thijs.gg)
 
 ## 🏢 Work Experiences
 - #### Software Development Intern at [**Flipr Innovation Labs Pvt. Ltd.**](https://flipr.ai/)
