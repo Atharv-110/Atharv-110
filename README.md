@@ -3,7 +3,7 @@
 ## 👤 About Me
 > Tech-Xplorer | Developer | Mentor
 
-Hey there! I am a fresher and aspiring software and frontend developer, who relentlessly learns new tech daily. Thrives on connecting with tech enthusiasts, tackling real-world problems, and propelling enduring success.
+Hey there! I am an aspiring software engineer, who relentlessly learns new tech daily. Thrives on connecting with tech enthusiasts, tackling real-world problems, and propelling enduring success.
 
 ## ⚙️ Tech Stack
 ```Programming Languages```
