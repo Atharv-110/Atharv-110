@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=Atharv-110&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
 ## 👤 About Me
-> Tech-Xplorer | Developer | Mentor
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&letterSpacing=1px&duration=5000&pause=1500&color=38C2FF&vCenter=true&width=435&lines=Developer.+Speaker.+Mentor.)](https://git.io/typing-svg)
 
 Hey there! I am an aspiring software engineer, who relentlessly learns new tech daily. Thrives on connecting with tech enthusiasts, tackling real-world problems, and propelling enduring success.
 
