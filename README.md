@@ -28,7 +28,7 @@ Hey there! I am an aspiring software engineer, who relentlessly learns new tech 
 
 ## 🏢 Work Experiences
 - #### Software Development Intern at [**Flipr Innovation Labs Pvt. Ltd.**](https://flipr.ai/)
-  ```JAN 2024 - Present```
+  ```JAN 2024 - MAY 2024```
 
   Worked on some prominent client projects like Acko Technologies, M4X, etc.. Also got a chance to build their in-house product, a hackathon platform called Flipr Connect.
 
