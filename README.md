@@ -109,7 +109,7 @@ Being part of Sahityik, I have had the privilege of being part of other amazing 
 </div>
 
 ## 🏆 Holopin Board
-[![@atharv_110 Holopin board](https://holopin.io/api/user/board?user=atharv_110)](https://holopin.io/@atharv_110)
+[![An image of @atharv_110's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atharv_110)](https://holopin.io/@atharv_110)
 
 ## 📊 GitHub Stats
 <div align="left">
